@@ -1,0 +1,5 @@
+*
+!.gitignore
+!cryptstorage.py
+!algorithm.py
+!LICENSE.txt
