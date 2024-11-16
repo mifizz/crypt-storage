@@ -9,6 +9,7 @@ Finally, type `python cryptstorage` or `python3 cryptstorage` (depends on your s
 Type **1** to choose Encrypt option. After that, choose what you want to encrypt - file (1) or user input (2).
 1. If you chose *file* you will be asked for a text file path (including file name, eg. `D:/some/folders/file.txt`).
 2. If you chose *input* you will be asked for a text you want to encrypt.
+
 Next you type your passphrase (you MUST keep it somewhere, it will be used to decrypt encrypted file later).
 Lastly, you type file path to new encrypted text file (eg. `D:/some/folders/encrypted_text.txt`). That is all, you have successfully encrypted your text!
 
@@ -16,5 +17,6 @@ Lastly, you type file path to new encrypted text file (eg. `D:/some/folders/encr
 Type **2** to choose Decrypt option. After that, choose what you want to decrypt - file (1) or user input (2).
 1. If you chose *file* you will be asked for a **encrypted** text file path (eg. `D:/some/folders/encrypted_text.txt`).
 2. If you chose *input* you will be asked for a text you want to decrypt. *(**NOT RECOMMENDED**, even if you paste encrypted text from file, there may be difference)*
+
 Next you type your passphrase you used to encrypt this file/text.
 Lastly, you type file path to new decrypted text file (eg. `D:/some/folders/decrypted_text.txt`). That is all, you have successfully decrypted your text back!
