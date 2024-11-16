@@ -3,7 +3,7 @@ Easily encrypt and decrypt any text document you want - txt, html, md, any docum
 
 # How to use
 Open your terminal emulator, clone this repo with `git clone https://github.com/mifizz/crypt-storage` or just download **cryptstorage.py** and **algorithm.py**. After that, use **cd** command to open folder with *crypt storage*, eg. `cd crypt-storage`. 
-Finally, type `python cryptstorage` or `python3 cryptstorage` (depends on your system).
+Finally, type `python cryptstorage.py` or `python3 cryptstorage.py` (depends on your system).
 
 ## Encrypting
 Type **1** to choose Encrypt option. After that, choose what you want to encrypt - file (1) or user input (2).
